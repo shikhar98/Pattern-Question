@@ -21,4 +21,4 @@ for n=6
 19*20*21*22*23*24
 7*8*9*10*11*12
 
- I have made a program for generalisation of n which is total number of lines as well as total number of numbers in one line.
+ I have made a program in C++ for generalisation of n which is total number of lines as well as total number of numbers in one line.
